@@ -1,0 +1,23 @@
+.question-details-page {
+    width: calc(100% - 324px);
+    float: left;
+    margin: 25px 0;
+    padding: 0;
+}
+.question-actions-user {
+    display: flex;
+    justify-content: space-between;
+}
+.question-details-container{
+    padding-left: 0.6rem;
+}
+.question-details-container h1{
+    margin-bottom: 3rem;
+}
+
+.question-actions-user .auth-btn{
+    margin: 0.5rem;
+}
+/* .display-ans p{
+    margin: 0.5rem;
+} */
