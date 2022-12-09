@@ -1,0 +1,20 @@
+.ask-question{
+    margin: auto;
+    max-width: 1200px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 3px;
+    box-shadow: 0 10px 25px rgb(0 0 0 / 5%), 0 20px 48px rgb(0 0 0 / 5%), 0 1px 4px rgb(0 0 0 / 10%);
+}
+
+.ask-question label input, .ask-question label textarea {
+    padding: 10px;
+    border: 1px solid rgba(0,0,0,.24313725490196078);
+    font-family: "Roboto",sans-serif;
+    width: calc(100% - 20px);
+    resize: vertical;
+    /* margin: 10px 0px; */
+}
+.ask-question label h4{
+    margin: 15px 0;
+}
